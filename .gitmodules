@@ -1,0 +1,3 @@
+[submodule "Benutzerverwaltung/Quellcode"]
+	path = Benutzerverwaltung/Quellcode
+	url = https://github.com/DavidLost/GigaChad-Corp-Usermanager
